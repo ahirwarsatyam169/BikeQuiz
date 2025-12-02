@@ -19,7 +19,7 @@
 //     },
 //     {
 //         bike :"img/gsxr.jpg",
-//         option : ["Yamaha R1", "Superleggera v4", "GSXR1000", "kawasaki zx14r"],
+//         option : ["Yamaha R1", "Superleggera v4", "Suzuki GSXR1000", "kawasaki zx14r"],
 //         correct : 2,
 
 //     },
@@ -31,7 +31,7 @@
 //     },
 //     {
 //         bike :"img/m1k.jpg",
-//         option : ["Suzuki Katana", "M1000RR", "GSX750R", "kawasaki zx14r"],
+//         option : ["Suzuki Katana", "BMW M1000RR", "GSX750R", "kawasaki zx14r"],
 //         correct : 1,
 
 //     },
@@ -43,7 +43,7 @@
 //     },
 //     {
 //         bike :"img/s1k.jpg",
-//         option : ["S1000RR", "Ducati Supersport", "Panigale v4", "GSXR1000"],
+//         option : ["BMW S1000RR", "Ducati Supersport", "Panigale v4", "GSXR1000"],
 //         correct : 0,
 
 //     },
@@ -55,7 +55,7 @@
 //     },
 //     {
 //         bike :"img/superleggera.jpg",
-//         option : ["RC990", "Superleggera", "Panigale v4", "Kawasaki zx14r"],
+//         option : ["RC990", "Ducati Superleggera", "Panigale v4", "Kawasaki zx14r"],
 //         correct : 1,
 
 //     },
@@ -73,13 +73,13 @@
 //     },
 //     {
 //         bike :"img/zx10r.jpg",
-//         option : ["Ninja zx6r", "Ninja zx10r", "Panigale v4", "kawasaki zx14r"],
+//         option : ["Ninja zx6r", "Ninja zx10r", "Panigale v4", "Ninja zx14r"],
 //         correct : 1,
 
 //     },
 //     {
 //         bike :"img/v4r.jpg",
-//         option : ["Ninja H2", "Ducati 899", "Panigale v4r", "kawasaki zx14r"],
+//         option : ["Ninja H2", "Ducati 899", "Ducati Panigale v4r", "kawasaki zx14r"],
 //         correct : 2,
 
 //     },
@@ -164,7 +164,7 @@ const questions = [ {
     },
     {
         bike :"img/gsxr.jpg",
-        option : ["Yamaha R1", "Superleggera v4", "GSXR1000", "kawasaki zx14r"],
+        option : ["Yamaha R1", "Superleggera v4", "Suzuki GSXR1000", "kawasaki zx14r"],
         correct : 2,
 
     },
@@ -176,7 +176,7 @@ const questions = [ {
     },
     {
         bike :"img/m1k.jpg",
-        option : ["Suzuki Katana", "M1000RR", "GSX750R", "kawasaki zx14r"],
+        option : ["Suzuki Katana", "BMW M1000RR", "GSX750R", "kawasaki zx14r"],
         correct : 1,
 
     },
@@ -188,19 +188,19 @@ const questions = [ {
     },
     {
         bike :"img/s1k.jpg",
-        option : ["S1000RR", "Ducati Supersport", "Panigale v4", "GSXR1000"],
+        option : ["BMW S1000RR", "Ducati Supersport", "Panigale v4", "GSXR1000"],
         correct : 0,
 
     },
     {
         bike :"img/streetfighter.jpg",
-        option : ["CFMoto 450sr", "panigale 899", "Streetfighter V4", "kawasaki zx10r"],
+        option : ["CFMoto 450sr", "panigale 899", "Ducati Streetfighter V4", "kawasaki zx10r"],
         correct : 2,
 
     },
     {
         bike :"img/superleggera.jpg",
-        option : ["RC990", "Superleggera", "Panigale v4", "Kawasaki zx14r"],
+        option : ["RC990", "Ducati Superleggera", "Panigale v4", "Kawasaki zx14r"],
         correct : 1,
 
     },
@@ -224,7 +224,7 @@ const questions = [ {
     },
     {
         bike :"img/v4r.jpg",
-        option : ["Ninja H2", "Ducati 899", "Panigale v4r", "kawasaki zx14r"],
+        option : ["Ninja H2", "Ducati 899", "Ducati Panigale v4r", "kawasaki zx14r"],
         correct : 2,
 
     },
